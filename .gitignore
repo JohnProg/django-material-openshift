@@ -1,0 +1,7 @@
+db.sqlite3
+*.pyc
+.project
+.pydevproject
+vpython27
+.idea/
+.DS_Store
