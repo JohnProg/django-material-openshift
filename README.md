@@ -13,3 +13,5 @@ Usage
 =====
 
 Clone this repository and use like base of your Django project
+Set the following:
+rhc env set OPENSHIFT_PYTHON_WSGI_APPLICATION=wsgi/wsgi.py --app <app-name>
